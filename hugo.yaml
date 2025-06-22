@@ -86,7 +86,7 @@ params:
   homeInfoParams:
     Title: "👋 Hi, this is Cheng ✌️"
     Content: >
-       Welcome to the learning note of [Cheng Deng](https://www.cdeng.net)!
+       Welcome to the learning notes of [Cheng Deng](https://www.cdeng.net)!
 
   socialIcons:
     - name: github
